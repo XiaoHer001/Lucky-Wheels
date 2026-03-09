@@ -1,5 +1,13 @@
 # 🎯 Unity 年会抽奖工具使用说明
 
+## GitHub 界面
+<img width="2560" height="1380" alt="01" src="https://github.com/user-attachments/assets/74e5a081-53d3-45d3-81dc-647db05610af" />
+<img width="2560" height="1380" alt="02" src="https://github.com/user-attachments/assets/5a4f3535-8f71-4bdd-88bb-a288b1b9cba0" />
+
+## Gitee 界面
+<img width="2560" height="1380" alt="03" src="https://github.com/user-attachments/assets/f72e6f54-9157-4b4b-8852-f3713643cf0e" />
+<img width="2560" height="1380" alt="04" src="https://github.com/user-attachments/assets/2eaf1e7d-8a81-4356-b954-e49cfa5b88dd" />
+
 ## 1. 功能概述
 本程序为公司内部抽奖工具，提供以下功能：
 
